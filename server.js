@@ -301,7 +301,7 @@ const loadPromises = resourceTypes.map(type => {
         }
         
         res.json(filteredItems.map(
-            ({id, createdAt, updatedAt, title, category}) => ({id, createdAt, updatedAt, title, category})
+           ({ id, createdAt, updatedAt, title, category, price, description, dangerLevel, img, categoryImg }) => ({ id, createdAt, updatedAt, title, category, price, description, dangerLevel, img, categoryImg })
         ));
     });
 
