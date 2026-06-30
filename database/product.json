@@ -1,0 +1,328 @@
+[
+  {  
+    "id": 1,
+    "title": "Pozione della paralisi del sonno",
+    "category": "Pozioni",
+    "price": 50.0,
+    "description": "Una pozione che causa una paralisi del sonno. I peggiori incubi di chi ne cade vittima prenderanno vita.",
+    "ingredients": "Ingredienti: Noce moscata, tabasco, tè nero e camomilla",
+    "dangerLevel": "Alto, i demoni potrebbero affezionarsi!",
+    "img": "https://i.pinimg.com/736x/8a/7d/e8/8a7de87894dfa9a4945b4e194e255e6a.jpg",
+    "categoryImg": "/icons/potions.png"
+  },
+  {  
+    "id": 2,
+    "title": "Pozione della neve",
+    "category": "Pozioni",
+    "price": 20.0,
+    "description": "Snow. We need more snow. Can't have enough snow! Indeed",
+    "ingredients": "Ingredienti: Neve, tanta neve",
+    "dangerLevel": "Basso",
+    "img": "https://i.pinimg.com/1200x/1c/cb/f9/1ccbf9643d0054629a46589ed9315d0e.jpg",
+    "categoryImg": "/icons/potions.png"
+  },
+  { 
+    "id": 3,
+    "title": "Elisir dell'amore",
+    "category": "Pozioni",
+    "price": 40.0,
+    "description": "Una pozione per far cadere chiunque ai tuoi piedi.",
+    "ingredients": "Ingredienti: Rosa, un capello della persona desiderata, chiodi di garofano, peperoncino",
+    "dangerLevel": "Alto, l'hai visto il film Obsession?",
+    "img": "https://i.pinimg.com/1200x/cd/e1/29/cde1295ea3305a3441dd3e167090340f.jpg",
+    "categoryImg": "/icons/potions.png"
+  },
+  { 
+    "id": 4,
+    "title": "Tonico del vigore",
+    "category": "Pozioni",
+    "price": 25.0,
+    "description": "Tonico ricostituente, per combattere la stanchezza, l'affaticamento e le sbronze!",
+    "ingredients": "Ingredienti: Acqua, limone, sale, miele e menta",
+    "dangerLevel": "Basso, ti serve e si vede",
+    "img": "https://i.pinimg.com/736x/35/7a/62/357a62d33045c4a5db15dcae10ecf484.jpg",
+    "categoryImg": "/icons/potions.png"
+  },
+  { 
+    "id": 5,
+    "title": "Elisir della fortuna",
+    "category": "Pozioni",
+    "price": 75.0,
+    "description": "Un elisir fortunato, con quello che costa... ",
+    "ingredients": "Ingredienti: Quadrifoglio, una moneta rubata ad un leprecauno, patchouli, Radice di Nirn",
+    "dangerLevel": "Alto, frega tu un leprecauno",
+    "img": "https://i.pinimg.com/1200x/72/c8/53/72c853e79d2e44d4a55d7ef5bbbe9e2a.jpg",
+    "categoryImg": "/icons/potions.png"
+  },
+  { 
+    "id": 6,
+    "title": "Pozione dell'oro",
+    "category": "Pozioni",
+    "price": 100.0,
+    "description": "Per chi ha bisogno di soldi facili, quasi",
+    "ingredients": "Ingredienti: Cannella, basilico, zenzero, alloro, dito di gigante",
+    "dangerLevel": "Altissimo, come il gigante a cui hai sottratto un dito",
+    "img": "https://i.pinimg.com/736x/b8/67/a5/b867a59a079ba2543ec45af349131ea2.jpg",
+    "categoryImg": "/icons/potions.png"
+  },
+  { 
+    "id": 7,
+    "title": "Talismano dell'oro",
+    "category": "Talismani",
+    "price": 50.0,
+    "description": "Uno stupendo talismano da portare al collo che ti porterà abbondanza nelle tue tasche",
+    "dangerLevel": "Alto, attento all'invidia.",
+    "img": "https://img.staticdj.com/d3ecd58ba75f20e1d2b6efbaa849b120_2056x.jpeg",
+    "categoryImg": "/icons/talismano.png"
+  },
+  { 
+    "id": 8,
+    "title": "Talismano della fortuna",
+    "category": "Talismani",
+    "price": 150.0,
+    "description": "La persona più fortunata al mondo porta1 questo talismano al dito",
+    "dangerLevel": "Basso, finché resti nel legale",
+    "img": "https://i.pinimg.com/1200x/e2/45/33/e245330489608a0c44067464d9f6fa05.jpg",
+    "categoryImg": "/icons/talismano.png"
+  },
+  { 
+    "id": 9,
+    "title": "Talismano per l'amore",
+    "category": "Talismani",
+    "price": 80.0,
+    "description": "Quello è un Amuleto di Mara? Sorprendente che uno come te non sia ancora impegnato",
+    "dangerLevel": "Medio, dovete averlo entrambi.",
+    "img": "https://i.pinimg.com/1200x/08/67/86/086786a7dfa44882be5df23e558d8631.jpg",
+    "categoryImg": "/icons/talismano.png"
+  },
+  { 
+    "id": 10,
+    "title": "Talismano per la riconciliazione",
+    "category": "Talismani",
+    "price": 100.0,
+    "description": "Un talismano con lo scopo di farti perdonare anche il peggiore degli errori.",
+    "dangerLevel": "Medio, però stai zitto!",
+    "img": "https://i.pinimg.com/1200x/8e/72/57/8e72574ee10ed9b920d36c196601a245.jpg",
+    "categoryImg": "/icons/talismano.png"
+  },
+  { 
+    "id": 11,
+    "title": "Talismano maledetto",
+    "category": "Talismani",
+    "price": 200.0,
+    "description": "Tu dicci quanto cattivo lo vuoi, al resto pensiamo noi.",
+    "dangerLevel": "Alto, attento che a volte le maledizioni tornano",
+    "img": "https://i.pinimg.com/736x/30/2d/0b/302d0b72b8c98485775bd539d8a664cc.jpg",
+    "categoryImg": "/icons/talismano.png"
+  },
+  { 
+    "id": 12,
+    "title": "Talismano della protezione",
+    "category": "Talismani",
+    "price": 75.0,
+    "description": "Talismano in grado di proteggerti da quaaasi tutto, dipende da quanto sei disposto a pagare.",
+    "dangerLevel": "Basso",
+    "img": "https://i.pinimg.com/736x/c4/13/82/c413823a352229f65834217a4cde9953.jpg",
+    "categoryImg": "/icons/talismano.png"
+  },
+  { 
+    "id": 13,
+    "title": "Sfera di cristallo",
+    "category": "Divinazione",
+    "price": 110.0,
+    "description": "Una sfera in grado di mostrarti passato presente e futuro",
+    "dangerLevel": "Medio, non chiedere ciò che non sei pronto a vedere",
+    "img": "https://i.pinimg.com/736x/31/57/6c/31576cbbde62204d9357b7ac97c2009c.jpg",
+    "categoryImg": "/icons/divinazione_icon.png"
+  },
+  { 
+    "id": 14,
+    "title": "Mazzo di Tarocchi",
+    "category": "Divinazione",
+    "price": 60.0,
+    "description": "Le carte rispondono sempre. In maniera onesta.",
+    "dangerLevel": "Medio, non hanno filtri.",
+    "img": "https://i.pinimg.com/736x/30/27/72/302772f32ac9f764b97872103c8d2502.jpg",
+    "categoryImg": "/icons/divinazione_icon.png"
+  },
+  { 
+    "id": 15,
+    "title": "Pendolo",
+    "category": "Divinazione",
+    "price": 70.0,
+    "description": "Si, no, forse... Riformula.",
+    "dangerLevel": "Alto, non saprai mai chi risponde dall'altra parte.",
+    "img": "https://i.pinimg.com/1200x/45/9c/11/459c1100e4edd99f8cb4243806ec9093.jpg",
+    "categoryImg": "/icons/divinazione_icon.png"
+  },
+  { 
+    "id": 16,
+    "title": "Mazzo di Oracoli",
+    "category": "Divinazione",
+    "price": 60.0,
+    "description": "Per chi è troppo eccentrico per i tarocchi",
+    "dangerLevel": "Medio, LEGGI. LE. ISTRUZIONI. GRAZIE",
+    "img": "https://i.pinimg.com/1200x/7c/21/2d/7c212deadbd6eab2dbd1cc765c0917d1.jpg",
+    "categoryImg": "/icons/divinazione_icon.png"
+  },
+  { 
+    "id": 17,
+    "title": "Specchio nero",
+    "category": "Divinazione",
+    "price": 200.0,
+    "description": "Il fratello notturno della sfera di cristallo",
+    "dangerLevel": "Altissimo, un portale funziona sempre in due direzioni.",
+    "img": "https://i.pinimg.com/736x/1e/cc/e5/1ecce5ce0ebe13d22bc533a06bae7bb7.jpg",
+    "categoryImg": "/icons/divinazione_icon.png"
+  },
+  { 
+    "id": 18,
+    "title": "Mazzo di carte Napoletane",
+    "category": "Divinazione",
+    "price": 10.0,
+    "description": "Per le nonnine tra i vicoletti",
+    "dangerLevel": "Medio, un po' ruspanti, si arrabbiano subito!",
+    "img": "/imgs/tarots.png",
+    "categoryImg": "/icons/divinazione_icon.png"
+  },
+  { 
+    "id": 19,
+    "title": "Bacchetta magica",
+    "category": "Strumenti",
+    "price": 50.0,
+    "description": "Una bacchetta che aiuta a focalizzare l'energia",
+    "dangerLevel": "Medio, attenti a dove la puntate!",
+    "img": "https://i.pinimg.com/736x/2d/de/ca/2ddeca295109eb7e53500ce51575cc5a.jpg",
+    "categoryImg": "/icons/rituali.png"
+  },
+  { 
+    "id": 20,
+    "title": "Calderone",
+    "category": "Strumenti",
+    "price": 80.0,
+    "description": "Tutte le streghe ne hanno almeno uno",
+    "dangerLevel": "Basso",
+    "img": "https://i.pinimg.com/1200x/e8/db/02/e8db021fdcc570dac45a115ddb29df62.jpg",
+    "categoryImg": "/icons/rituali.png"
+  },
+  { 
+    "id": 21,
+    "title": "Pugnale rituale",
+    "category": "Strumenti",
+    "price": 150.0,
+    "description": "Tutte le streghe ne hanno almeno uno, da usare SOLO per i rituali ",
+    "dangerLevel": "Medio, taglia davvero",
+    "img": "https://i.pinimg.com/736x/1c/35/bd/1c35bdff387edfcfa13bc74344e8f7fd.jpg",
+    "categoryImg": "/icons/rituali.png"
+  },
+  { 
+    "id": 22,
+    "title": "Bugia ottone",
+    "category": "Strumenti",
+    "price": 20.0,
+    "description": "Fedele come pochi, sia nei rituali che quando va via la luce.",
+    "dangerLevel": "Medio",
+    "img": "https://i.pinimg.com/736x/cc/9b/7b/cc9b7b816b8eddeed1137f4431f45961.jpg",
+    "categoryImg": "/icons/rituali.png"
+  },
+  { 
+    "id": 23,
+    "title": "Porta incensi",
+    "category": "Strumenti",
+    "price": 10.0,
+    "description": "Un delizioso cofanetto per tenere tutti i tuoi incensi in ordine",
+    "dangerLevel": "Basso",
+    "img": "https://i.pinimg.com/736x/d5/b4/42/d5b442628396c5d73b203b9c235f090a.jpg",
+    "categoryImg": "/icons/rituali.png"
+  },
+  { 
+    "id": 24,
+    "title": "Grimorio (vuoto)",
+    "category": "Strumenti",
+    "price": 30.0,
+    "description": "Da piccoli avevamo il diario dei segreti, questa è la versione witchy",
+    "dangerLevel": "Medio, nascondilo bene",
+    "img": "https://i.pinimg.com/736x/ff/8f/59/ff8f59a5810b44765915fb988592b7e4.jpg",
+    "categoryImg": "/icons/rituali.png"
+  },
+  { 
+    "id": 25,
+    "title": "Pergamene",
+    "category": "Strumenti",
+    "price": 10.0,
+    "description": "Fogli di pergamena su cui scrivere quello che vuoi",
+    "dangerLevel": "Basso, cosa mai potresti scrivere ha ha ha... vero? ",
+    "img": "https://i.pinimg.com/736x/bb/10/d8/bb10d844b584b2165934e6b08a2aaf6d.jpg",
+    "categoryImg": "/icons/rituali.png"
+  },
+  { 
+    "id": 26,
+    "title": "Sale",
+    "category": "Strumenti",
+    "price": 5.0,
+    "description": "Come il sale da cucina, ma meglio non mangiarselo",
+    "dangerLevel": "Medio, veramente, non mangiarlo.",
+    "img": "https://i.pinimg.com/1200x/bb/7c/59/bb7c593cf710edf6f323b0b765c50e29.jpg",
+    "categoryImg": "/icons/rituali.png"
+  },
+  { 
+    "id": 27,
+    "title": "Palo santo",
+    "category": "Incensi",
+    "price": 10.0,
+    "description": "Scaccia via le energie negative, si anche la suocera quando viene a pranzo la domenica ",
+    "dangerLevel": "Medio, sta tutto nelle intenzioni",
+    "img": "https://i.pinimg.com/1200x/f1/e6/1f/f1e61f48dce456fe92c3a9357ee3bef3.jpg",
+    "categoryImg": "/icons/incensi.png"
+  },
+  { 
+    "id": 28,
+    "title": "Salvia",
+    "category": "Incensi",
+    "price": 10.0,
+    "description": "Scaccia via le energie negative ma proprio tutte ",
+    "dangerLevel": "Medio, sta tutto nelle intenzioni",
+    "img": "https://i.pinimg.com/1200x/83/4c/bf/834cbf6acc2b65d9d79648a0df6b7c71.jpg",
+    "categoryImg": "/icons/incensi.png"
+  },
+  { 
+    "id": 29,
+    "title": "Sandalo",
+    "category": "Incensi",
+    "price": 10.0,
+    "description": "Ottimo per i rituali d'amore",
+    "dangerLevel": "Medio, sta tutto nelle intenzioni",
+    "img": "https://i.pinimg.com/1200x/27/be/86/27be86d415b902083e94771649d4efb2.jpg",
+    "categoryImg": "/icons/incensi.png"
+  },
+  { 
+    "id": 30,
+    "title": "Rosmarino",
+    "category": "Incensi",
+    "price": 10.0,
+    "description": "Ottimo per purificare, anche se la casa puzzerà di arrosto per un po'",
+    "dangerLevel": "Medio, sta tutto nelle intenzioni",
+    "img": "https://i.pinimg.com/1200x/be/22/21/be22214c4edc593b293494d092f00d1a.jpg",
+    "categoryImg": "/icons/incensi.png"
+  },
+  { 
+    "id": 31,
+    "title": "Sangue di drago",
+    "category": "Incensi",
+    "price": 10.0,
+    "description": " È potentissimo, un po' come gli urli del Dovahkiin  ",
+    "dangerLevel": "Medio, sta tutto nelle intenzioni",
+    "img": "https://i.pinimg.com/1200x/50/36/33/5036332e1fbea27497578c2ff6a8082f.jpg",
+    "categoryImg": "/icons/incensi.png"
+  },
+  { 
+    "id": 32,
+    "title": "Lavanda",
+    "category": "Incensi",
+    "price": 10.0,
+    "description": "Ottima per rilassarsi e dormire! ",
+    "dangerLevel": "Medio, sta tutto nelle intenzioni",
+    "img": "https://i.pinimg.com/1200x/21/03/5b/21035b08640e21ccc36bdbb918fe6ea0.jpg",
+    "categoryImg": "/icons/incensi.png"
+  }
+]
